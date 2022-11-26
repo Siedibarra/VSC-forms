@@ -1,0 +1,81 @@
+body{
+    background: linear-gradient(120deg, rgb(1, 24, 53),rgb(0, 8, 27),rgb(59, 1, 1));
+    
+}
+.header{
+    text-align: center;
+    color:antiquewhite; 
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    opacity: .9;
+    border-radius: 25px;
+    text-shadow: 5px 5px 8px rgb(79, 5, 148);
+    border-style: double;
+    border-color: rgb(226, 43, 171);
+}
+#taytol{
+    font-size: 400%;
+    padding: 50px;
+}
+.subtitle{
+    color: aliceblue;
+    text-align:center ;
+    font-size: 100%;
+    
+    padding:30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    opacity:.9;
+    margin-bottom: 1%;
+}
+.registrationdescription{
+    color:antiquewhite; 
+    text-align: center;
+    border-radius: 70;
+   
+    font-family: 'Courier New', Courier, monospace;
+    font-size:larger;
+    border-style:;
+    padding: 10px;
+}
+.Register a{
+    text-decoration: none;
+    color: rgb(227, 230, 233);
+    background-color: rgb(26, 1, 27);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 700;
+    padding:10px;
+    border-style:double;
+    border-color: aqua;
+    border-radius: 20px;
+    margin: 0 0 20 0;
+    border:5px;
+    border-style: double;
+    height: 50px;
+    width: 100px;
+}
+.Register a:hover{
+    background-color: rgb(241, 6, 135);
+    color:rgb(3, 248, 187);
+    border-style:double;
+    border-color: rgb(208, 255, 0);
+}
+.footer{
+    position:relative;
+            left:0;
+            bottom:0;
+            width:100%;
+            background-color: rgb(241, 232, 212);
+            text-align: center;
+            text-decoration: none;
+            float:left;
+            padding: 14px;
+            margin-top: 20px;
+            justify-content: space-evenly;
+            background-color:black;
+            color:antiquewhite
+}
+.content{
+    color:white;
+    text-align:center;
+
+}
+
